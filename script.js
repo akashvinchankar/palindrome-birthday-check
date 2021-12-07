@@ -25,7 +25,6 @@ function clickHandler(e){
     }
 }
 
-
 function resverseStr(str){
     return str.split('').reverse().join('');
 }

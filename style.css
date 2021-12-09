@@ -49,3 +49,33 @@ p{
     font-weight: bold;
     font-size: 1.2rem;
 }
+
+
+.footer{
+    padding: 2rem 1rem;
+    color: var(--primary-yellow);
+    text-align: center;
+    border-bottom-right-radius: 1rem;
+    margin-top: 5rem;
+}
+.footer .link{
+    color: var(--primary-yellow);
+}
+
+.footer ul{
+    padding-inline-start: 0px;
+}
+
+.footer .footer-header{
+    font-weight: bold;
+    font-size: large;
+}
+
+.list-non-bullet{
+    list-style: none;
+}
+
+.list-item-inline{
+    display: inline;
+    padding: 0rem 0.5rem;
+}
